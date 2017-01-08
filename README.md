@@ -13,7 +13,7 @@ I'm learning to implement all of these so I can answer the questions in the 'Cra
 
 Questions, Comments, Concerns:
 
-If you have any questions about literally anything, contact me and I'll hit you back with an answer. Mostly doing this because I refuse to pay to learn these things and I realize how frustrating it is to learn this all on your own with no proper prior coding experience. I'll  update the comments in my code to reflect any questions I get. As of writing this (1/7/17), I don't know too much about GitHub so it might take me a while to format everything properly. Suggestions on anything here are always appreciated, be as critical as you can.
+UPDATE (1/8/18): I said earlier that if anyone has a question/suggestion just send it to me. I have no idea why I thought any non-GitHub user could just message me(apparently there's no messaging system on GH anyway). Instead, as I update my code I'll just comment the crap out of it. I still don't know too much about GitHub so it might take me a while to format everything properly. 
 
 
 Made using: 
@@ -24,4 +24,4 @@ Anaconda --> Jupyter Notebook (IDE)  Easy to download, easy to use. Fun UI. Have
 
 Notes to beginners(as in you haven't learned Data Structures and Algorithms yet):
 
-If python is your first and only programming language, my suggestion is to stop using python for a sec. Go learn the basics of C++. It's extremely annoying to learn, but if you're already at this point in python it won't be hard. You'll be able to understand how most languages work much more easily and how to handle your code a bit better. Where to learn: MIT's Open Courseware and several other university websites offer free lectures/materials online. OR, if you're into reading a textbook on your own, go find a copy of the 'Big C++' and learn chapters 4-8 (Classes, Vectors and Arrays, Pointers, and Inhertiance). Do the some of the problems per chapter, then come back. It's a hassle, but the intuition I got from learning chapter 1-8 of Big C++ helped me learn to program (not just Python, but also some Stata and dabbling in R) way faster.
+If python is your first and only programming language, my suggestion is to stop using python for a sec. Go learn the basics of C++. It's extremely annoying to learn, but if you're already at this point in python it won't be hard. It helped ME understand how most languages work and how to handle my code a bit(read: I still suck) better. Where to learn: MIT's Open Courseware and several other university websites offer free lectures/materials online. OR, if you're into reading a textbook on your own, go find a copy of the 'Big C++' and learn chapters 4-8 (Classes, Vectors and Arrays, Pointers, and Inhertiance). Do the some of the problems per chapter, then come back. It's a hassle, but the intuition I got from learning chapter 1-8 of Big C++ helped me learn to program (not just Python, but also some Stata and dabbling in R) way faster.
